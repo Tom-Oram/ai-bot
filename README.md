@@ -1,1 +1,1 @@
-Ai-bot for code repos 1
+Ai-bot for code repos
